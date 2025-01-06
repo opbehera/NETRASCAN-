@@ -1,3 +1,7 @@
+You can git clone to get files for my project.
+
+To access the model and add its absolute path in views.py file visit <a href="https://drive.google.com/file/d/1L2ghhaCNY9Ud1FD27jagr-NKawsXdFa2/view?usp=sharing">NetraSCAN Model</a>
+
 <H1>About project</H1>
 <h2>Eye Abnormality Prediction Using OCT Scans</h2>
 
